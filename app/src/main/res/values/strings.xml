@@ -9,4 +9,11 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="forward"><![CDATA[->]]></string>
+    <string name="initialize">initialize</string>
+    <string name="backward"><![CDATA[<-]]></string>
+    <string name="shoutout">ShoutOut</string>
+    <string name="refresh">Refresh</string>
+    <string name="go">Go!</string>
+    <string name="url">URL</string>
 </resources>
