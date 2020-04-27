@@ -127,11 +127,8 @@ public class MainActivity extends AppCompatActivity {
                     webView.loadUrl("http:///" + url.getText());
 
                 }
-
                 pageHistory.add(webView.getUrl());
                 currentURl = webView.getUrl();
-
-
             }
         });
         refresh.setOnClickListener(new View.OnClickListener() {
